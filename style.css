@@ -1,1 +1,13 @@
+:root {
+  --bg: #ffffff;
+  --surface: #f7f7f5;
+  --text: #26272b;
+}
 
+<link rel="stylesheet" href="https://googleapis.com">
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'EB Garamond', Garamond, Georgia, serif;;
+}
