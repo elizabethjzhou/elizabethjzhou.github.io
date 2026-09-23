@@ -4,7 +4,7 @@
   <br>
   <br>
   <br>
-  <a href="https://eliazbethjzhou.github.io">
+  <a href="https://elizabethjzhou.github.io">
     <img width="240" height="240" src="https://github.com/elizabethjzhou/elizabethjzhou.github.io/blob/b4721d706480ff954f1a7e9fdeb639c86ec5e942/image/Telescope%20Portrait.jpg" />
   </a>
   <br>
