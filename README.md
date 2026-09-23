@@ -1,4 +1,71 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Elizabeth J Zhou</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://gstatic.com" crossorigin>
+<link href="https://googleapis.com" rel="stylesheet">
+
+
+body {
+  margin: 0;
+  font-family: "EB Garamond", Garamond, serif;
+}
+
+/* Style the side navigation */
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #1c095c;
+  overflow-x: hidden;
+}
+
+
+/* Side navigation links */
+.sidenav a {
+  color: #e1e1fa;
+  padding: 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color on hover */
+.sidenav a:hover {
+  background-color: #e1e1fa;
+  color: #1c095c;
+}
+
+/* Style the content */
+.content {
+  margin-left: 200px;
+  padding-left: 20px;
+  color: #1c095c;
+}
+</style>
+</head>
+<body>
+
+<div class="sidenav">
+  <a href="https://elizabethjzhou.github.io">Home</a>
+  <a href="#">About</a>
+  <a href="#">Research</a>
+  <a href="#">CV</a>
+  <a href="mailto:elizabeth.j.zhou@gmail.com">Contact</a>
+</div>
+
+<div class="content">
+<p><div align="center">
   <br>
   <br>
   <br>
@@ -9,18 +76,15 @@
   </a>
   <br>
   <p>
-    <!-- <a href="http://weibo.com/pc175"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/weibo.svg?sanitize=true" /></a>
-    <a href="https://twitter.com/jaywcjlove"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/twitter.svg?sanitize=true" /></a>
-    <a href="mailto:kennyiseeyou@gmail.com"><img height="18" src="https://raw.githubusercontent.com/jaywcjlove/jaywcjlove/master/imgs/mail.svg?sanitize=true" /></a> -->
+    <a href="https://physics.osu.edu/people/zhou.5141"><img height="18" src="https://raw.githubusercontent.com/elizabethjzhou/elizabethjzhou.github.io/77b0fc6afe6bd6de549836a6a184148105a14af4/image/school-32.png" /></a>
+    <a href="https://github.com/elizabethjzhou"><img height="18" src="https://raw.githubusercontent.com/elizabethjzhou/elizabethjzhou.github.io/f5b0e603491a0fa275b19a026ca43fc0c717b254/image/github-9-32.png" /></a>
+    <a href="mailto:elizabeth.j.zhou@gmail.com"><img height="18" src="https://raw.githubusercontent.com/elizabethjzhou/elizabethjzhou.github.io/9377dde9e056a61608365976f8c5701227b3c7b3/image/email-32.png" /></a>
   </p>
-  I am a PhD student at Ohio State University
-  <p>
-    <!-- <a href="http://weibo.com/pc175">Weibo</a> • 
-    <a href="https://twitter.com/jaywcjlove">Twitter</a> • 
-    <a href="mailto:kennyiseeyou@gmail.com">E-Mail</a> • 
-    <a href="https://jaywcjlove.github.io/#/sponsor">Sponsor</a> • 
-    <a href="https://wangchujiang.com/quick-rss/feeds/">Feeds</a> -->
-  </p>
+  Hi! I am a physics PhD student at Ohio State University with a focus in exoplanet detection instrumentation.
   <br>
   <br>
-  <br>
+  <br></p>
+</div>
+
+</body>
+</html>
