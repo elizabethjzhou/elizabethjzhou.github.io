@@ -5,7 +5,7 @@
   <br>
   <br>
   <a href="https://elizabethjzhou.github.io">
-    <img width="240" height="240" src="./image/portrait.jpg" />
+    <img width="240" height="240" src="https://raw.githubusercontent.com/elizabethjzhou/elizabethjzhou.github.io/blob/9cd4aabc98245bc78ea7d080138441722bbd375d/image/portrait.jpg" />
   </a>
   <br>
   <p>
